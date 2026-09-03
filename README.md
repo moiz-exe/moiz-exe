@@ -217,7 +217,7 @@ Explore experiments, procedures, apparatus, observations, calculations, graphs, 
 
 ---
 
-# 🐍 The Commit Snake
+# 🐍 Snake Eating My Commits
 
 <div align="center">
 
