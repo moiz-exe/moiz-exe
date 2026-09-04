@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#02030A"/><stop offset=".52" stop-color="#0B1026"/><stop offset="1" stop-color="#171044"/>
+  </linearGradient>
+  <radialGradient id="neb" cx=".5" cy=".45" r=".65">
+    <stop offset="0" stop-color="#7C3AED" stop-opacity=".34"/><stop offset=".55" stop-color="#312E81" stop-opacity=".14"/><stop offset="1" stop-color="#02030A" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop stop-color="#22D3EE" stop-opacity=".05"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".8"/><stop offset="1" stop-color="#7C3AED" stop-opacity=".05"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="500" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="500" rx="28" fill="url(#neb)"/>
+<circle cx="43" cy="258" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="306" cy="368" r="0.5" fill="#FFFFFF" opacity="0.4"/><circle cx="248" cy="292" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="319" cy="397" r="0.5" fill="#FFFFFF" opacity="0.25"/><circle cx="297" cy="136" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="437" cy="321" r="0.5" fill="#FFFFFF" opacity="0.25"/><circle cx="59" cy="412" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="424" cy="123" r="0.9" fill="#FFFFFF" opacity="0.75"/><circle cx="765" cy="323" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="462" cy="231" r="0.5" fill="#FFFFFF" opacity="0.25"/><circle cx="386" cy="200" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="320" cy="446" r="1.1" fill="#FFFFFF" opacity="0.25"/><circle cx="194" cy="394" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="443" cy="425" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="414" cy="187" r="0.7" fill="#FFFFFF" opacity="0.75"/><circle cx="102" cy="152" r="0.9" fill="#FFFFFF" opacity="0.55"/><circle cx="702" cy="310" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="665" cy="127" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="379" cy="304" r="0.9" fill="#FFFFFF" opacity="0.25"/><circle cx="373" cy="116" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="213" cy="360" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="643" cy="350" r="0.7" fill="#FFFFFF" opacity="0.25"/><circle cx="949" cy="121" r="0.9" fill="#FFFFFF" opacity="0.75"/><circle cx="843" cy="421" r="0.5" fill="#FFFFFF" opacity="0.25"/><circle cx="566" cy="68" r="0.5" fill="#FFFFFF" opacity="0.4"/><circle cx="429" cy="189" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="992" cy="47" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="780" cy="331" r="1.1" fill="#FFFFFF" opacity="0.25"/><circle cx="247" cy="266" r="0.7" fill="#FFFFFF" opacity="0.75"/><circle cx="68" cy="148" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="732" cy="139" r="0.5" fill="#FFFFFF" opacity="0.25"/><circle cx="786" cy="316" r="0.9" fill="#FFFFFF" opacity="0.75"/><circle cx="378" cy="41" r="0.7" fill="#FFFFFF" opacity="0.25"/><circle cx="1179" cy="460" r="0.5" fill="#FFFFFF" opacity="0.4"/><circle cx="413" cy="438" r="0.9" fill="#FFFFFF" opacity="0.4"/><circle cx="1153" cy="250" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="1091" cy="117" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="974" cy="184" r="0.7" fill="#FFFFFF" opacity="0.55"/><circle cx="270" cy="285" r="0.9" fill="#FFFFFF" opacity="0.4"/><circle cx="617" cy="371" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="104" cy="454" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="443" cy="90" r="0.7" fill="#FFFFFF" opacity="0.75"/><circle cx="647" cy="122" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="1127" cy="318" r="0.7" fill="#FFFFFF" opacity="0.55"/><circle cx="95" cy="34" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="548" cy="292" r="0.7" fill="#FFFFFF" opacity="0.75"/><circle cx="763" cy="125" r="1.1" fill="#FFFFFF" opacity="0.25"/><circle cx="926" cy="214" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="457" cy="182" r="0.9" fill="#FFFFFF" opacity="0.55"/><circle cx="772" cy="75" r="0.7" fill="#FFFFFF" opacity="0.25"/><circle cx="528" cy="471" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="943" cy="351" r="0.9" fill="#FFFFFF" opacity="0.4"/><circle cx="873" cy="35" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="333" cy="170" r="1.1" fill="#FFFFFF" opacity="0.25"/><circle cx="18" cy="159" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="600" cy="171" r="0.7" fill="#FFFFFF" opacity="0.55"/><circle cx="844" cy="475" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="309" cy="451" r="0.9" fill="#FFFFFF" opacity="0.25"/><circle cx="402" cy="28" r="0.9" fill="#FFFFFF" opacity="0.75"/><circle cx="644" cy="362" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="650" cy="423" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="455" cy="301" r="0.7" fill="#FFFFFF" opacity="0.75"/><circle cx="116" cy="439" r="0.7" fill="#FFFFFF" opacity="0.4"/><circle cx="116" cy="452" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="576" cy="73" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="526" cy="391" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="306" cy="410" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="658" cy="426" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="479" cy="293" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="174" cy="29" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="919" cy="157" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="24" cy="479" r="0.9" fill="#FFFFFF" opacity="0.4"/><circle cx="363" cy="63" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="134" cy="309" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="814" cy="121" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="136" cy="368" r="1.1" fill="#FFFFFF" opacity="0.25"/><circle cx="862" cy="248" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="1075" cy="181" r="1.1" fill="#FFFFFF" opacity="0.4"/><circle cx="1156" cy="149" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="132" cy="88" r="0.9" fill="#FFFFFF" opacity="0.4"/><circle cx="274" cy="348" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="486" cy="158" r="0.9" fill="#FFFFFF" opacity="0.55"/><circle cx="880" cy="414" r="0.9" fill="#FFFFFF" opacity="0.55"/><circle cx="919" cy="438" r="1.1" fill="#FFFFFF" opacity="0.55"/><circle cx="159" cy="113" r="0.7" fill="#FFFFFF" opacity="0.55"/><circle cx="365" cy="77" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="562" cy="358" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="420" cy="58" r="0.5" fill="#FFFFFF" opacity="0.55"/><circle cx="1127" cy="463" r="1.1" fill="#FFFFFF" opacity="0.75"/><circle cx="739" cy="91" r="1.1" fill="#FFFFFF" opacity="0.75"/><rect x="35" y="145" width="214" height="275" rx="16" fill="#050816" fill-opacity=".88" stroke="#312E81" stroke-width="1"/>
+<text x="53" y="178" fill="#22D3EE" font-family="monospace" font-size="11" letter-spacing="2">MISSION 01</text>
+<text x="53" y="220" fill="#FFFFFF" font-family="monospace" font-size="18" font-weight="700">PYTHON × MOIZ</text>
+<line x1="53" y1="240" x2="231" y2="240" stroke="#7C3AED" stroke-opacity=".55"/>
+<text x="53" y="272" fill="#8B5CF6" font-family="monospace" font-size="11">TECH</text>
+<text x="53" y="292" fill="#FFFFFF" font-family="monospace" font-size="11">PYTHON / JUPYTER</text>
+<text x="53" y="340" fill="#8B5CF6" font-family="monospace" font-size="11">STATUS</text>
+<circle cx="60" cy="365" r="4" fill="#22D3EE" filter="url(#glow)"/>
+<text x="73" y="369" fill="#FFFFFF" font-family="monospace" font-size="11">LEARNING</text>
+<text x="53" y="398" fill="#64748B" font-family="monospace" font-size="10">OPEN REPOSITORY →</text><rect x="269" y="145" width="214" height="275" rx="16" fill="#050816" fill-opacity=".88" stroke="#312E81" stroke-width="1"/>
+<text x="287" y="178" fill="#22D3EE" font-family="monospace" font-size="11" letter-spacing="2">MISSION 02</text>
+<text x="287" y="220" fill="#FFFFFF" font-family="monospace" font-size="18" font-weight="700">MACHINE LEARNING</text>
+<line x1="287" y1="240" x2="465" y2="240" stroke="#7C3AED" stroke-opacity=".55"/>
+<text x="287" y="272" fill="#8B5CF6" font-family="monospace" font-size="11">TECH</text>
+<text x="287" y="292" fill="#FFFFFF" font-family="monospace" font-size="11">PYTHON / DATA / SKLEARN</text>
+<text x="287" y="340" fill="#8B5CF6" font-family="monospace" font-size="11">STATUS</text>
+<circle cx="294" cy="365" r="4" fill="#22D3EE" filter="url(#glow)"/>
+<text x="307" y="369" fill="#FFFFFF" font-family="monospace" font-size="11">EXPLORING</text>
+<text x="287" y="398" fill="#64748B" font-family="monospace" font-size="10">OPEN REPOSITORY →</text><rect x="503" y="145" width="214" height="275" rx="16" fill="#050816" fill-opacity=".88" stroke="#312E81" stroke-width="1"/>
+<text x="521" y="178" fill="#22D3EE" font-family="monospace" font-size="11" letter-spacing="2">MISSION 03</text>
+<text x="521" y="220" fill="#FFFFFF" font-family="monospace" font-size="18" font-weight="700">PHYSICS HSSC</text>
+<line x1="521" y1="240" x2="699" y2="240" stroke="#7C3AED" stroke-opacity=".55"/>
+<text x="521" y="272" fill="#8B5CF6" font-family="monospace" font-size="11">TECH</text>
+<text x="521" y="292" fill="#FFFFFF" font-family="monospace" font-size="11">HTML / CSS / JAVASCRIPT</text>
+<text x="521" y="340" fill="#8B5CF6" font-family="monospace" font-size="11">STATUS</text>
+<circle cx="528" cy="365" r="4" fill="#22D3EE" filter="url(#glow)"/>
+<text x="541" y="369" fill="#FFFFFF" font-family="monospace" font-size="11">BUILDING</text>
+<text x="521" y="398" fill="#64748B" font-family="monospace" font-size="10">OPEN REPOSITORY →</text><rect x="737" y="145" width="214" height="275" rx="16" fill="#050816" fill-opacity=".88" stroke="#312E81" stroke-width="1"/>
+<text x="755" y="178" fill="#22D3EE" font-family="monospace" font-size="11" letter-spacing="2">MISSION 04</text>
+<text x="755" y="220" fill="#FFFFFF" font-family="monospace" font-size="18" font-weight="700">PHYSICS PBA</text>
+<line x1="755" y1="240" x2="933" y2="240" stroke="#7C3AED" stroke-opacity=".55"/>
+<text x="755" y="272" fill="#8B5CF6" font-family="monospace" font-size="11">TECH</text>
+<text x="755" y="292" fill="#FFFFFF" font-family="monospace" font-size="11">HTML / CSS / JAVASCRIPT</text>
+<text x="755" y="340" fill="#8B5CF6" font-family="monospace" font-size="11">STATUS</text>
+<circle cx="762" cy="365" r="4" fill="#22D3EE" filter="url(#glow)"/>
+<text x="775" y="369" fill="#FFFFFF" font-family="monospace" font-size="11">BUILDING</text>
+<text x="755" y="398" fill="#64748B" font-family="monospace" font-size="10">OPEN REPOSITORY →</text><rect x="971" y="145" width="214" height="275" rx="16" fill="#050816" fill-opacity=".88" stroke="#312E81" stroke-width="1"/>
+<text x="989" y="178" fill="#22D3EE" font-family="monospace" font-size="11" letter-spacing="2">MISSION 05</text>
+<text x="989" y="220" fill="#FFFFFF" font-family="monospace" font-size="18" font-weight="700">C / C++</text>
+<line x1="989" y1="240" x2="1167" y2="240" stroke="#7C3AED" stroke-opacity=".55"/>
+<text x="989" y="272" fill="#8B5CF6" font-family="monospace" font-size="11">TECH</text>
+<text x="989" y="292" fill="#FFFFFF" font-family="monospace" font-size="11">C++ / C</text>
+<text x="989" y="340" fill="#8B5CF6" font-family="monospace" font-size="11">STATUS</text>
+<circle cx="996" cy="365" r="4" fill="#22D3EE" filter="url(#glow)"/>
+<text x="1009" y="369" fill="#FFFFFF" font-family="monospace" font-size="11">PRACTICE</text>
+<text x="989" y="398" fill="#64748B" font-family="monospace" font-size="10">OPEN REPOSITORY →</text><text x="48" y="68" fill="#22D3EE" font-family="monospace" font-size="12" letter-spacing="3">ORBITAL OS // MISSION CONTROL</text>
+<text x="48" y="105" fill="#FFFFFF" font-family="monospace" font-size="31" font-weight="700">SELECTED BUILDS</text>
+<text x="48" y="128" fill="#64748B" font-family="monospace" font-size="11" letter-spacing="2">STATUS IS A SNAPSHOT — NOT A CLAIM OF MASTERY</text></svg>
