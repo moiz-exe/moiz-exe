@@ -264,7 +264,7 @@ Experiments, apparatus, procedures, observations, calculations, graphs, and lear
 
 <div align="center">
 
-# 🐍 THE CONTRIBUTION TRAIL
+# 🐍 Snake Eating My Commits
 
 <img src="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
@@ -453,6 +453,4 @@ Today's beginner can become tomorrow's expert.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,12,20,24"/>
 
 </div>
-```
 
-This is **one complete README file**—copy from the first `<!-- ======================= HERO ======================= -->` to the final `</div>` and paste it directly into `README.md` in one go.
