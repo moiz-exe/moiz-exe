@@ -1,456 +1,271 @@
+# MOIZ.EXE // ORBITAL OS
 
-<!-- ======================= HERO ======================= -->
+<p align="center">
+  <img src="./assets/orbital-hero.gif" alt="MOIZ.EXE cinematic orbital hero" width="100%">
+</p>
 
-<div align="center">
+<p align="center">
+  <strong>DEVELOPER • LEARNER • BUILDER</strong><br>
+  <sub>Python · Machine Learning · AI · Full-Stack · Digital Building</sub>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ABDUL%20MOIZ&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Machine%20Learning%20Learner%20%E2%80%A2%20Digital%20Builder&descAlignY=60&descSize=18&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Turning+curiosity+into+code.;Learning+Python+%E2%86%92+Data+%E2%86%92+Machine+Learning+%E2%86%92+AI.;Building+one+project+at+a+time.;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=moiz-exe&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-
-<a href="https://github.com/moiz-exe">
-<img src="https://img.shields.io/badge/GITHUB-moiz--exe-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-> ## ⚡ *I'm not waiting to become great before I start building.*
->
-> ### **I'm building to become great.**
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/moiz-exe">PROFILE</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abdulmoiz495/">LINKEDIN</a>
+</p>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
-<img align="right" width="330" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
-# 🧠 About Me
-
-I'm **Abdul Moiz** — a developer and lifelong learner building my path through:
-
-### 🐍 Python • 📊 Data • 🤖 Machine Learning • 🧠 AI
-
-My GitHub isn't just a place where I upload code.
-
-It's a **digital timeline of my journey**.
-
-Every repository represents something new.  
-Every bug teaches something useful.  
-Every project is a step closer to building something bigger.
-
-```python
-class AbdulMoiz:
-
-    role = "Developer & Lifelong Learner"
-
-    currently_building = "My future"
-
-    learning_path = [
-        "Python 🐍",
-        "Data Analysis 📊",
-        "Machine Learning 🤖",
-        "Artificial Intelligence 🧠"
-    ]
-
-    mindset = """
-    Learn deeply.
-    Build consistently.
-    Never stop improving.
-    """
-
-    def mission(self):
-        return "Turn knowledge into real-world projects 🚀"
-````
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-# ⚔️ THE DEVELOPMENT JOURNEY
-
-```text
-                    ╭──────────────────────╮
-                    │   🌱 START WITH      │
-                    │     CURIOSITY        │
-                    ╰──────────┬───────────╯
-                               │
-                               ▼
-                    ╭──────────────────────╮
-                    │   🐍 PYTHON          │
-                    │   BUILD FOUNDATION   │
-                    ╰──────────┬───────────╯
-                               │
-                               ▼
-              ╭───────────────────────────────╮
-              │   📊 DATA & VISUALIZATION     │
-              │   FIND PATTERNS IN DATA       │
-              ╰───────────────┬───────────────╯
-                              │
-                              ▼
-              ╭───────────────────────────────╮
-              │   🤖 MACHINE LEARNING         │
-              │   TEACH MACHINES TO LEARN     │
-              ╰───────────────┬───────────────╯
-                              │
-                              ▼
-              ╭───────────────────────────────╮
-              │   🧠 ARTIFICIAL INTELLIGENCE  │
-              │   EXPLORE WHAT'S POSSIBLE     │
-              ╰───────────────┬───────────────╯
-                              │
-                              ▼
-                    ╭──────────────────────╮
-                    │ 🚀 BUILD THE FUTURE  │
-                    ╰──────────────────────╯
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠️ TECH ARSENAL
-
-### ⚙️ Languages & Development
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,git,github,vscode&perline=8"/>
-
-<br/><br/>
-
-### 📊 Data & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&perline=4"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NUMPY-LEARNING-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/PANDAS-LEARNING-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATPLOTLIB-LEARNING-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUPYTER-NOTEBOOKS-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
+## `01 // SYSTEM BOOT`
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="50%" valign="top">
+### ABDUL MOIZ
 
-### 🐍 Python × MOIZ
+**Future Full Stack Developer** building forward from programming fundamentals into Python, data, Machine Learning, AI, and practical web products.
 
-> **Where the journey began.**
+This profile is an engineering log rather than a badge wall.
 
-A growing collection of Python programs, concepts, exercises, notebooks, and experiments documenting my progress.
+**Current operating mode**
 
-<br/>
+`BUILDING` · `LEARNING` · `EXPLORING` · `EXPERIMENTING`
 
-`PYTHON` `JUPYTER` `LEARNING`
+**Proof surface**
 
-<br/>
-
-<a href="https://github.com/moiz-exe/Python-x-MOIZ">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Five public projects are surfaced below as missions: Python learning, Machine Learning experiments, Physics learning platforms, and C/C++ practice.
 
 </td>
+<td width="42%" valign="top">
 
-<td width="50%" valign="top">
+```text
+SYSTEM ONLINE
 
-### 🤖 Machine Learning
+CORE        MOIZ.EXE
+MODE        BUILDER IN PROGRESS
+VECTOR      PYTHON → DATA → ML → AI
+SURFACE     WEB / DIGITAL PRODUCTS
 
-> **Learning by building.**
-
-Experiments with datasets, models, algorithms, and practical Machine Learning implementations.
-
-<br/>
-
-`PYTHON` `SCIKIT-LEARN` `ML`
-
-<br/>
-
-<a href="https://github.com/moiz-exe/Machine-Learning">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+SIGNAL      LOCKED
+STATUS      BUILDING...
+```
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Physics HSSC
-
-> **Interactive revision, redesigned.**
-
-A web-based platform for physics concepts, formulas, numericals, revision, and practice.
-
-<br/>
-
-`HTML` `CSS` `JAVASCRIPT`
-
-<br/>
-
-<a href="https://moiz-exe.github.io/Physics-HSSC/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 Physics PBA
-
-> **Practical physics in one digital space.**
-
-Experiments, apparatus, procedures, observations, calculations, graphs, and learning resources.
-
-<br/>
-
-`HTML` `CSS` `JAVASCRIPT`
-
-<br/>
-
-<a href="https://moiz-exe.github.io/PBA/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-<div align="center">
+## `02 // DEVELOPMENT VECTOR`
 
-# 🔥 CONSISTENCY LOG
-
-<img src="https://streak-stats.demolab.com?user=moiz-exe&theme=tokyonight&hide_border=true&card_width=850"/>
-
-<br/><br/>
+<p align="center">
+  <img src="./assets/development-universe.svg" alt="MOIZ.EXE development universe" width="100%">
+</p>
 
 ```text
-       ONE COMMIT.
-           ↓
-      ONE SMALL STEP.
-           ↓
-      REPEATED DAILY.
-           ↓
-   SOMETHING BIGGER. 🚀
+PROGRAMMING FUNDAMENTALS
+        ↓
+      C / C++
+        ↓
+      PYTHON
+        ↓
+       DATA
+        ↓
+ MACHINE LEARNING
+        ↓
+ ARTIFICIAL INTELLIGENCE
+        ↓
+ FULL-STACK DEVELOPMENT
+        ↓
+ REAL-WORLD DIGITAL PRODUCTS
 ```
 
-### ⚡ `CONSISTENCY > MOTIVATION`
-
-</div>
+The direction is intentionally presented as a journey, not a claim of mastery.
 
 ---
 
-<div align="center">
+## `03 // DEVELOPER RADAR`
 
-# 🐍 Snake Eating My Commits
+<p align="center">
+  <img src="./assets/developer-radar.svg" alt="MOIZ.EXE developer radar" width="100%">
+</p>
 
-<img src="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+| VECTOR | CURRENT SIGNAL |
+|---|---|
+| Python | **BUILDING** |
+| Web | **BUILDING** |
+| Data | **LEARNING** |
+| Machine Learning | **EXPLORING** |
+| AI | **EXPLORING** |
+| Full-Stack | **NEXT VECTOR** |
 
-<br/><br/>
+No artificial skill percentages. The labels describe what is being worked on, learned, or explored.
 
-## 🟩 EVERY COMMIT LEAVES A MARK
+---
 
-### 🐍 EVERY CONTRIBUTION BECOMES PART OF THE TRAIL
+## `04 // MISSION CONTROL`
 
-## 🚀 EVERY SMALL STEP MOVES THE JOURNEY FORWARD
+<p align="center">
+  <img src="./assets/mission-dock.svg" alt="MOIZ.EXE mission control" width="100%">
+</p>
 
-<br/>
+### Mission 01 — [PYTHON × MOIZ](https://github.com/moiz-exe/Python-x-MOIZ)
+
+**Purpose:** Python fundamentals and programming practice.  
+**Technology:** Python · Jupyter Notebook  
+**Status:** `LEARNING`
+
+A personal learning repository covering early Python fundamentals such as variables, strings, lists, tuples, indentation, and first programs.
+
+### Mission 02 — [MACHINE LEARNING](https://github.com/moiz-exe/Machine-Learning)
+
+**Purpose:** Learn ML by implementing concepts and experiments.  
+**Technology:** Python · Jupyter · Scikit-learn  
+**Status:** `EXPLORING`
+
+Current public work includes data understanding, preprocessing, visualization, regression, model training, predictions, and Simple Linear Regression experiments.
+
+### Mission 03 — [PHYSICS HSSC](https://github.com/moiz-exe/Physics-HSSC)
+
+**Purpose:** Turn physics revision into a practical digital learning experience.  
+**Technology:** HTML · CSS · JavaScript  
+**Status:** `BUILDING`
+
+An interactive revision platform bringing concepts, formulas, numericals, comparisons, cheatsheets, and practice into one place.
+
+### Mission 04 — [PHYSICS PBA](https://github.com/moiz-exe/PBA)
+
+**Purpose:** Digitize practical physics learning.  
+**Technology:** HTML · CSS · JavaScript  
+**Status:** `BUILDING`
+
+A practical-learning platform covering experiments, apparatus, procedures, observations, calculations, graphs, and practice questions.
+
+### Mission 05 — [C / C++](https://github.com/moiz-exe/c-programs)
+
+**Purpose:** Programming practice and fundamentals.  
+**Technology:** C · C++  
+**Status:** `PRACTICE`
+
+A public collection of C/C++ programs and coursework-style exercises.
+
+---
+
+## `05 // AI / ML LAB`
+
+<p align="center">
+  <img src="./assets/ai-lab.svg" alt="MOIZ.EXE AI and machine learning lab" width="100%">
+</p>
 
 ```text
-╔════════════════════╗
-║       COMMIT        ║
-╚══════════╤═════════╝
-           ▼
-╔════════════════════╗
-║        LEARN        ║
-╚══════════╤═════════╝
-           ▼
-╔════════════════════╗
-║        BUILD        ║
-╚══════════╤═════════╝
-           ▼
-╔════════════════════╗
-║        FAIL         ║
-╚══════════╤═════════╝
-           ▼
-╔════════════════════╗
-║       DEBUG        ║
-╚══════════╤═════════╝
-           ▼
-╔════════════════════╗
-║      IMPROVE        ║
-╚══════════╤═════════╝
-           ▼
-        REPEAT ∞
+DATA
+  ↓
+FEATURES
+  ↓
+MODEL
+  ↓
+PREDICTION
+  ↓
+SYSTEM
+
+STATUS: EXPLORING
 ```
 
-</div>
+**Current mission**
+
+- Python
+- Data
+- Machine Learning
+- Artificial Intelligence
+- Full-Stack Development
+- Practical projects
+
+The objective is simple: keep moving from concepts → experiments → working systems.
 
 ---
 
-<div align="center">
+## `06 // CONTRIBUTION CORE`
 
-# 🎯 CURRENTLY LEVELING UP
+<p align="center">
+  <img src="./assets/contribution-core.svg" alt="MOIZ.EXE contribution core" width="100%">
+</p>
+
+### LIVE CONTRIBUTION TRAIL
+
+The visual below is generated from GitHub's real contribution graph. It is deliberately not accompanied by manually written contribution totals.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+    <img src="./assets/github-snake.svg" alt="GitHub contribution snake">
+  </picture>
+</p>
+
+### 3D CONTRIBUTION CALENDAR
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D GitHub contribution calendar">
+</p>
+
+> These two visuals are generated by GitHub Actions. If GitHub shows fewer contributions than expected, check GitHub's contribution settings and commit attribution rather than editing the README.
+
+---
+
+## `07 // BUILDER PROGRESSION`
 
 ```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│ 🐍 PYTHON                  ██████████████░░░░░ FOUNDATION  │
-│                                                            │
-│ 📊 DATA ANALYSIS           █████████░░░░░░░░░░ LEARNING    │
-│                                                            │
-│ 🤖 MACHINE LEARNING        ███████░░░░░░░░░░░░ EXPLORING   │
-│                                                            │
-│ 🌐 WEB PROJECTS            ██████████████░░░░░ BUILDING    │
-│                                                            │
-│ 🧠 ARTIFICIAL INTELLIGENCE █████░░░░░░░░░░░░░ NEXT LEVEL   │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+MOIZ.EXE
+BUILDER IN PROGRESS
+
+LEVEL 01
+
+PROGRAMMING FUNDAMENTALS      [ONLINE]
+PYTHON                        [BUILDING]
+DATA                          [LEARNING]
+MACHINE LEARNING              [EXPLORING]
+AI                            [EXPLORING]
+FULL-STACK                    [NEXT VECTOR]
+
+══════════════════════════════════════
+
+BUILDING TOWARD THE GLOBAL STAGE
 ```
 
-</div>
+This is a symbolic progression system — not a ranking, percentile, or claim of professional seniority.
 
 ---
 
-# 🎯 CURRENT MISSION
-
-```python
-while not future_is_built:
-
-    learn()
-    practice()
-    build()
-
-    try:
-        improve()
-    except Failure:
-        debug()
-        learn_again()
-
-# No final level.
-# Just bigger challenges.
-```
-
----
-
-<div align="center">
-
-# 🧭 WHAT DRIVES ME
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🧠 LEARN DEEPLY
-
-Understand the logic.
-
-**Don't just copy code.**
-
-</td>
-
-<td width="33%" align="center">
-
-## ⚙️ BUILD CONTINUOUSLY
-
-Turn ideas and knowledge into something real.
-
-**Learn by creating.**
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀 KEEP GROWING
-
-Today's beginner can become tomorrow's expert.
-
-**Never stop improving.**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🗺️ THE ROAD AHEAD
+## `08 // ENGINEERING LOG`
 
 ```text
-                         2026
-                           │
-              ╭────────────┼────────────╮
-              │            │            │
-              ▼            ▼            ▼
-          🐍 PYTHON     📊 DATA      🤖 ML
-              │            │            │
-              ╰────────────┼────────────╯
-                           │
-                           ▼
-                    🧠 AI & BEYOND
-                           │
-                           ▼
-                 🚀 REAL-WORLD PROJECTS
-                           │
-                           ▼
-                    ⭐ NEVER STOP
-                      LEARNING
+LEARN
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+FAIL
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
 
-</div>
+The repositories are the record.
+
+The direction is the story.
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="./assets/transmission.svg" alt="MOIZ.EXE incoming transmission" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Started+with+curiosity...;Continuing+with+discipline...;Building+with+purpose...;The+best+projects+are+still+ahead.+%F0%9F%9A%80"/>
-
-<br/><br/>
-
-# ⚡ BUILDING MY FUTURE IN PUBLIC
-
-### Every repository is a lesson.
-
-### Every project is progress.
-
-### Every line of code is one step forward.
-
-<br/>
-
-## ⭐ `CODE. LEARN. BUILD. REPEAT.`
-
-### — Abdul Moiz (@moiz-exe)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,12,20,24"/>
-
-</div>
-
+<p align="center">
+  <sub>MOIZ.EXE // ORBITAL OS · SYSTEM STATUS: BUILDING</sub>
+</p>
