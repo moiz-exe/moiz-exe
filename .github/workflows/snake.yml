@@ -1,8 +1,8 @@
-name: Orbital OS // Contribution Snake
+name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,24 +14,20 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Checkout profile repository
-        uses: actions/checkout@v5
-
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: moiz-exe
-          github_token: ${{ github.token }}
           outputs: |
-            assets/github-snake.svg?color_snake=#22D3EE&color_dots=#050816,#171044,#312E81,#7C3AED,#8B5CF6
-            assets/github-snake-dark.svg?color_snake=#22D3EE&color_dots=#050816,#171044,#312E81,#7C3AED,#8B5CF6
-            assets/github-snake.gif?color_snake=#22D3EE&color_dots=#050816,#171044,#312E81,#7C3AED,#8B5CF6&color_background=#02030A
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit generated visuals
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake files
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          message: "chore: refresh contribution visuals"
-          add: "assets/github-snake.svg assets/github-snake-dark.svg assets/github-snake.gif"
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
