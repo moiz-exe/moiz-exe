@@ -6,83 +6,95 @@
 <div align="center">
 
 <a href="https://github.com/moiz-exe">
-  <img src="./orbital-hero.gif" width="100%" alt="Orbital OS — Abdul Moiz"/>
+  <img src="./orbital-hero.gif" width="100%" alt="Orbital OS"/>
 </a>
 
 <br/>
 
 # ABDUL MOIZ
 
-### `DEVELOPER · BUILDER · DIGITAL CREATOR`
+### `FUTURE FULL STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+systems.;Python+%7C+C+%7C+AI%2FML+%7C+Automation;Digital+Marketing+%7C+SEO+%7C+Growth;Exploring.+Building.+Shipping.;Welcome+to+my+orbital+workspace." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+by+building.;Python+%7C+Data+%7C+Machine+Learning+%7C+AI;Building+interactive+web+projects.;Exploring.+Experimenting.+Improving.;Building+my+future+one+project+at+a+time." alt="Typing animation"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=moiz-exe&style=for-the-badge&color=161b22&label=PROFILE+VISITS" alt="Profile views"/>
+<a href="https://github.com/moiz-exe">
+<img src="https://img.shields.io/badge/GitHub-moiz--exe-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdulmoiz495/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=moiz-exe&style=for-the-badge&color=161B22&label=PROFILE+VISITS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ◉ ORBITAL STATUS
+# ◉ ORBITAL STATUS
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                         ORBITAL OS / 01                              │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  OPERATOR       Abdul Moiz                                          │
-│  HANDLE         moiz-exe                                             │
-│  STATUS         ONLINE                                               │
-│  MODE           BUILD / LEARN / SHIP                                │
-│  PRIMARY        Python • C • AI/ML • Automation                      │
-│  SECONDARY      SEO • Digital Marketing • Content                    │
-│  LOCATION       Pakistan                                             │
-│                                                                      │
-│  CURRENT MISSION                                                     │
-│  Turn concepts into useful digital products, systems and content.    │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                         ORBITAL OS / 01                           │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  OPERATOR       Abdul Moiz                                      │
+│  HANDLE         moiz-exe                                        │
+│  ROLE           Future Full Stack Developer                     │
+│                                                                  │
+│  EXPLORING      Python                                          │
+│                 Data                                             │
+│                 Machine Learning                                 │
+│                 Artificial Intelligence                           │
+│                 Web Projects                                     │
+│                 C / C++ Programming                              │
+│                                                                  │
+│  MODE           LEARN • BUILD • EXPERIMENT                       │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ````
 
-<div align="center">
-
-**I don't just collect technologies — I build with them.**
-
-</div>
-
 ---
 
-## 🌌 THE DEVELOPER BEHIND THE SIGNAL
+# 🌌 ABOUT ME
 
-I'm **Abdul Moiz**, a developer and digital creator focused on building practical technology, experimenting with AI, automation and programming, and turning ideas into useful digital experiences.
+I'm **Abdul Moiz**, a developer and lifelong learner documenting my journey through code, experiments, and real projects.
 
-My work sits at the intersection of:
+My GitHub is a timeline of that journey.
 
-**Software × AI × Automation × Digital Growth × Content**
-
-I'm continuously learning, experimenting with new technologies, and building projects that solve real problems.
+I started with programming fundamentals, moved into data and Machine Learning, and continue exploring Artificial Intelligence while building practical projects along the way.
 
 ```text
-LEARN
-   ↓
-EXPERIMENT
-   ↓
-BUILD
-   ↓
-BREAK
-   ↓
-IMPROVE
-   ↓
-SHIP
-   ↓
-REPEAT
+                         CURIOSITY
+                             │
+                             ▼
+                       LEARN THE BASICS
+                             │
+                             ▼
+                          WRITE CODE
+                             │
+                             ▼
+                         BUILD PROJECTS
+                             │
+                             ▼
+                        EXPERIMENT
+                             │
+                             ▼
+                          IMPROVE
+                             │
+                             ▼
+                           REPEAT
 ```
+
+> **Learn deeply. Build consistently. Keep improving.**
 
 ---
 
-## 🛰️ DEVELOPMENT UNIVERSE
+# 🛰️ DEVELOPMENT UNIVERSE
 
 <img src="./development-universe.svg" width="100%" alt="Development Universe"/>
 
@@ -95,51 +107,56 @@ REPEAT
 
 ### 🐍
 
-**PYTHON**
-
-Automation
-AI/ML
-Tools
-Projects
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**C**
+## PYTHON
 
 Fundamentals
-Logic
-Systems
-Problem Solving
+Variables
+Strings
+Lists
+Tuples
+Programming
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠
+### 📊
 
-**AI / ML**
+## DATA
 
+Data Analysis
+Data Visualization
+Datasets
+Patterns
+Exploration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+## MACHINE LEARNING
+
+Regression
+Scikit-learn
+Model Training
+Predictions
 Experiments
-AI Tools
-Automation
-Research
 
 </td>
 
 <td align="center" width="25%">
 
-### 📡
+### 🌐
 
-**DIGITAL**
+## WEB
 
-SEO
-Marketing
-Content
-Growth
+HTML
+CSS
+JavaScript
+Interactive Projects
+Educational Platforms
 
 </td>
 
@@ -148,193 +165,360 @@ Growth
 
 ---
 
-## 🧬 TECHNOLOGY RADAR
+# 🧬 TECHNOLOGY RADAR
 
-<img src="./developer-radar.svg" width="100%" alt="Developer Technology Radar"/>
-
-<br/>
+<img src="./developer-radar.svg" width="100%" alt="Technology Radar"/>
 
 <div align="center">
 
-### LANGUAGES
+### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&theme=dark" alt="Programming technologies"/>
 
-### DEVELOPMENT & TOOLS
+### DATA & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
-### AI / DATA
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI technologies"/>
+`Python` · `C/C++` · `HTML` · `CSS` · `JavaScript` · `Jupyter Notebook` · `Scikit-learn`
 
 </div>
 
 ---
 
-## 🧪 AI LAB
+# 🐍 PYTHON × MOIZ
 
-<img src="./ai-lab.svg" width="100%" alt="AI Lab"/>
+My **Python-x-MOIZ** repository is where my programming journey begins.
 
-I'm interested in turning AI from a conversation into an actual working system.
+It contains notebooks covering Python fundamentals including:
 
-### Areas I'm exploring
-
-```text
-┌─────────────────────┐
-│ Artificial Intel.   │
-├─────────────────────┤
-│ Machine Learning    │
-│ AI Automation       │
-│ Prompt Engineering  │
-│ Intelligent Tools   │
-│ Data & Analysis     │
-│ AI-assisted Coding  │
-└─────────────────────┘
-```
-
-**The goal isn't simply to use AI.**
-
-**The goal is to build things with it.**
-
----
-
-## 🚀 SELECTED MISSIONS
-
-<img src="./mission-dock.svg" width="100%" alt="Mission Control"/>
-
-### ⚛️ Physics HSSC
-
-An educational web project designed around physics learning and exam preparation.
-
-**Focus:** Education · Web · Students · Content
-
----
-
-### 📚 FBISE / HSSC Resources
-
-Educational content and resources focused on examination preparation, important questions, study material and student guidance.
-
-**Focus:** Education · Research · Content · Community
-
----
-
-### 🤖 AI & Automation Experiments
-
-Programming experiments exploring how AI and automation can simplify repetitive work and create useful tools.
-
-**Focus:** Python · AI · Automation · Experimentation
-
----
-
-### 📈 Digital Growth Projects
-
-Projects combining technology with SEO, digital marketing, content strategy and online growth.
-
-**Focus:** SEO · Marketing · Analytics · Content
-
----
-
-## 🔭 BUILD PHILOSOPHY
+* Variables
+* Strings
+* Lists
+* Tuples
+* Indentation
+* First Python programs
 
 ```text
-                 ┌───────────────┐
-                 │     IDEA      │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   RESEARCH    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │   PROTOTYPE   │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    BUILD      │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    TEST       │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │    SHIP       │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌─────────────────┐
-                 │    ITERATE      │
-                 └─────────────────┘
+PYTHON
+   │
+   ├── Variables
+   ├── Strings
+   ├── Lists
+   ├── Tuples
+   ├── Indentation
+   │
+   └── NEXT
+        │
+        ├── Numbers & Operators
+        ├── Conditions
+        ├── Loops
+        ├── Functions
+        ├── File Handling
+        └── Object-Oriented Programming
 ```
 
-> **Build small. Think big. Keep improving.**
+<a href="https://github.com/moiz-exe/Python-x-MOIZ">
+<img src="https://img.shields.io/badge/EXPLORE-PYTHON_×_MOIZ-161B22?style=for-the-badge&logo=github" alt="Python x MOIZ"/>
+</a>
 
 ---
 
-## 📡 CURRENT TRANSMISSION
+# 🤖 MACHINE LEARNING
+
+My **Machine-Learning** repository documents my learning process through practical experiments.
+
+Current work includes:
+
+* Understanding datasets
+* Data preprocessing
+* Data visualization
+* Regression
+* Simple Linear Regression
+* Scikit-learn
+* Model training
+* Predictions
+* Understanding relationships between variables
+
+```text
+DATA
+  ↓
+UNDERSTAND
+  ↓
+PREPROCESS
+  ↓
+VISUALIZE
+  ↓
+TRAIN
+  ↓
+PREDICT
+  ↓
+EVALUATE
+  ↓
+IMPROVE
+```
+
+### Current ML direction
+
+```text
+Python
+   ↓
+Data Analysis
+   ↓
+Data Visualization
+   ↓
+Regression
+   ↓
+Classification
+   ↓
+Clustering
+   ↓
+Advanced Machine Learning
+   ↓
+Projects
+```
+
+<a href="https://github.com/moiz-exe/Machine-Learning">
+<img src="https://img.shields.io/badge/EXPLORE-MACHINE_LEARNING-161B22?style=for-the-badge&logo=github" alt="Machine Learning"/>
+</a>
+
+---
+
+# ⚡ PHYSICS HSSC
+
+### One-Shot Physics Revision
+
+**Physics-HSSC** is an interactive physics revision platform.
+
+It brings together:
+
+* 📚 Physics concepts
+* 📐 Important formulas
+* 🧮 Solved numericals
+* 📊 Difference tables
+* ⚡ Chapter cheatsheets
+* 📝 Practice content
+* 📖 Chapter revision
+
+The project currently covers **11 chapters**, with **100+ formulas**, **50+ numericals**, and practice/guess-paper content.
+
+<a href="https://github.com/moiz-exe/Physics-HSSC">
+<img src="https://img.shields.io/badge/VIEW-PHYSICS_HSSC-161B22?style=for-the-badge&logo=github" alt="Physics HSSC"/>
+</a>
+
+<a href="https://moiz-exe.github.io/Physics-HSSC/">
+<img src="https://img.shields.io/badge/LIVE-WEBSITE-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Physics HSSC website"/>
+</a>
+
+---
+
+# 🧪 PHYSICS PBA
+
+### Interactive Physics Practical Learning
+
+**PBA** is an interactive platform focused on practical physics learning.
+
+It brings together:
+
+* 🧪 Experiments
+* 🔬 Apparatus
+* 📋 Procedures
+* 📊 Observations
+* 🧮 Calculations
+* 📈 Graphs
+* ⚠️ Precautions
+* ❓ Practice questions
+* 🧠 Interactive MCQs
+
+```text
+EXPERIMENT
+    ↓
+APPARATUS
+    ↓
+PROCEDURE
+    ↓
+OBSERVATIONS
+    ↓
+CALCULATIONS
+    ↓
+GRAPHS
+    ↓
+PRACTICE
+```
+
+<a href="https://github.com/moiz-exe/PBA">
+<img src="https://img.shields.io/badge/VIEW-PHYSICS_PBA-161B22?style=for-the-badge&logo=github" alt="Physics PBA"/>
+</a>
+
+<a href="https://moiz-exe.github.io/PBA/">
+<img src="https://img.shields.io/badge/LIVE-WEBSITE-161B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Physics PBA website"/>
+</a>
+
+---
+
+# ⚙️ C / C++ PROGRAMMING
+
+My **c-programs** repository contains programming practice and experiments, including numerous C/C++ source files and beginner programming exercises.
+
+Examples include work around:
+
+* Variables
+* Loops
+* Conditions
+* Calculations
+* Functions
+* Number problems
+* ASCII programs
+* Average calculations
+* Factorial programs
+* GCD
+* Leap year
+* Unit conversions
+* Basic problem solving
+
+```text
+LEARN SYNTAX
+     ↓
+WRITE PROGRAMS
+     ↓
+SOLVE PROBLEMS
+     ↓
+MAKE MISTAKES
+     ↓
+DEBUG
+     ↓
+UNDERSTAND
+     ↓
+WRITE BETTER CODE
+```
+
+<a href="https://github.com/moiz-exe/c-programs">
+<img src="https://img.shields.io/badge/VIEW-C_/_C%2B%2B_PROGRAMS-161B22?style=for-the-badge&logo=github" alt="C C++ programs"/>
+</a>
+
+---
+
+# 🚀 PROJECT DOCK
+
+<div align="center">
+
+|       PROJECT       |    AREA   |           TYPE           |
+| :-----------------: | :-------: | :----------------------: |
+|   🐍 Python × MOIZ  |   Python  |    Learning Repository   |
+| 🤖 Machine Learning | ML / Data |  Learning & Experiments  |
+|    ⚡ Physics HSSC   |  Physics  |       Web Platform       |
+|    🧪 Physics PBA   |  Physics  | Interactive Web Platform |
+|    ⚙️ C Programs    |  C / C++  |   Programming Practice   |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/moiz-exe?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+</a>
+
+</div>
+
+---
+
+# 🔭 MY DEVELOPMENT PATH
+
+```text
+                         ┌───────────────┐
+                         │   CURIOSITY   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    PYTHON     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     DATA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │      ML       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │      AI       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │ REAL PROJECTS │
+                         └───────────────┘
+```
+
+---
+
+# 📡 CURRENT TRANSMISSION
 
 <img src="./transmission.svg" width="100%" alt="Current Transmission"/>
 
 ```yaml
-focus:
+current_focus:
   - Python
-  - C programming
-  - AI / ML
-  - Automation
-  - Software projects
-  - SEO
-  - Digital marketing
-
-currently_learning:
-  - Artificial Intelligence
+  - Data
   - Machine Learning
-  - Advanced Python
-  - Software development
-  - Automation systems
+  - Artificial Intelligence
+  - Web Projects
+  - Programming
 
-mindset:
-  - curiosity
-  - experimentation
-  - consistency
-  - problem solving
-  - continuous improvement
+building:
+  - Educational web projects
+  - Physics learning platforms
+  - Programming projects
+  - Machine Learning experiments
+
+learning:
+  - Python fundamentals
+  - Data analysis
+  - Data visualization
+  - Machine Learning
+  - Artificial Intelligence
+
+approach:
+  - Learn
+  - Practice
+  - Build
+  - Debug
+  - Improve
 ```
 
 ---
 
-## 📊 GITHUB ACTIVITY
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/moiz-exe">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=moiz-exe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=moiz-exe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/moiz-exe">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-exe&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-exe&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/moiz-exe">
-  <img src="https://streak-stats.demolab.com?user=moiz-exe&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=moiz-exe&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 </a>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION CORE
+# 🐍 CONTRIBUTION CORE
 
 <div align="center">
 
@@ -347,181 +531,138 @@ mindset:
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake-dark.svg"
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake"
-  />
-</picture>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg"
+ width="100%"
+ alt="GitHub contribution snake"
+/> </picture>
 
 </div>
 
 ---
 
-## 📡 CONTRIBUTION SIGNAL
+# 🔥 CONSISTENCY LOG
+
+```text
+              ONE COMMIT
+                   │
+                   ▼
+              ONE SMALL STEP
+                   │
+                   ▼
+                LEARN
+                   │
+                   ▼
+                BUILD
+                   │
+                   ▼
+                DEBUG
+                   │
+                   ▼
+               IMPROVE
+                   │
+                   ▼
+                REPEAT
+                   │
+                   └───────────────► ∞
+```
+
+### `CONSISTENCY > MOTIVATION`
+
+---
+
+# 🧠 LEARNING PHILOSOPHY
+
+```text
+DON'T JUST WATCH.
+       ↓
+WRITE CODE.
+       ↓
+BREAK CODE.
+       ↓
+FIX CODE.
+       ↓
+UNDERSTAND IT.
+       ↓
+WRITE BETTER.
+```
+
+> **Every repository is a lesson.
+> Every project is progress.
+> Every mistake is part of the process.**
+
+---
+
+# 🌠 NEXT ORBIT
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                     NEXT ORBIT                           │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  🐍  Strengthen Python                                  │
+│                                                          │
+│  📊  Go deeper into Data                                │
+│                                                          │
+│  🤖  Continue Machine Learning                          │
+│                                                          │
+│  🧠  Explore Artificial Intelligence                    │
+│                                                          │
+│  🌐  Build more interactive web projects                │
+│                                                          │
+│  🚀  Turn learning into real projects                   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌍 BUILDING IN PUBLIC
+
+My repositories are more than a collection of files.
+
+They document the progression:
+
+```text
+FIRST CODE
+    ↓
+FUNDAMENTALS
+    ↓
+PROGRAMMING PRACTICE
+    ↓
+WEB PROJECTS
+    ↓
+DATA
+    ↓
+MACHINE LEARNING
+    ↓
+ARTIFICIAL INTELLIGENCE
+    ↓
+REAL-WORLD PROJECTS
+```
+
+**Still learning. Still building. Still improving.**
+
+---
+
+# 🤝 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/moiz-exe">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moiz-exe&theme=github_dark" width="100%" alt="GitHub contribution profile"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ WHAT I BUILD
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 SOFTWARE
-
-* Python applications
-* C programs
-* Automation scripts
-* Utility tools
-* Educational software
-* Developer tools
-* APIs & integrations
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & AUTOMATION
-
-* AI experiments
-* AI-powered workflows
-* Prompt systems
-* Data processing
-* Automation pipelines
-* Productivity tools
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 DIGITAL GROWTH
-
-* SEO
-* Social media marketing
-* Google Ads
-* Meta Ads
-* Email marketing
-* Content strategy
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 DIGITAL PRODUCTS
-
-* Educational websites
-* Landing pages
-* Content platforms
-* Student resources
-* Online tools
-* Experimental products
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌠 THE NEXT ORBIT
-
-```text
-                    ╭──────────────────╮
-                    │   NEXT MISSION   │
-                    ╰────────┬─────────╯
-                             │
-             ┌───────────────┼───────────────┐
-             │               │               │
-             ▼               ▼               ▼
-        ┌─────────┐     ┌──────────┐    ┌───────────┐
-        │   AI    │     │ SOFTWARE │    │  DIGITAL  │
-        │ SYSTEMS │     │ PRODUCTS │    │  GROWTH   │
-        └────┬────┘     └────┬─────┘    └─────┬─────┘
-             │               │                │
-             └───────────────┼────────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │  REAL-WORLD     │
-                    │    IMPACT       │
-                    └─────────────────┘
-```
-
-I'm building toward projects that are:
-
-**useful · scalable · intelligent · accessible · memorable**
-
----
-
-## 🌍 BEYOND THE CODE
-
-Technology is only one part of the journey.
-
-I also work around:
-
-* 🎓 Education & student communities
-* 📚 Educational content
-* 📈 Digital marketing
-* 🔎 Search & SEO
-* ✍️ Content creation
-* 🤖 AI experimentation
-* 🌐 Digital products
-
-**The interesting part is where these worlds overlap.**
-
----
-
-## ⚡ WHY ORBITAL OS?
-
-```text
-ORBITAL
-
-Not static.
-Not finished.
-Always moving.
-
-OS
-
-A workspace for ideas,
-experiments, projects,
-systems and missions.
-```
-
-Every project is another orbit.
-
-Every contribution is another signal.
-
-Every experiment teaches something.
-
----
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/moiz-exe">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-moiz--exe-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abdulmoiz495/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -530,26 +671,26 @@ Every experiment teaches something.
 
 <div align="center">
 
-### 💬 HAVE AN IDEA?
+### HAVE AN IDEA?
 
-**Let's turn it into something real.**
+**Let's build something useful.**
 
 </div>
 
 ---
 
-## 🛰️ SYSTEM LOG
+# 🛰️ SYSTEM LOG
 
 ```text
 [BOOT]        ORBITAL OS
 [AUTH]        MOIZ-EXE
-[STATUS]      ONLINE
-[MODE]        BUILD
+[ROLE]        FUTURE FULL STACK DEVELOPER
+[MODE]        LEARNING
 [ENGINE]      CURIOSITY
-[POWER]       CONSISTENCY
-[MISSION]     CREATE SOMETHING USEFUL
-[TELEMETRY]   CONTRIBUTIONS ACTIVE
-[STATUS]      ████████████████████  ONLINE
+[PROCESS]     LEARN → BUILD → IMPROVE
+[FOCUS]       PYTHON / DATA / ML / AI
+[PROJECTS]    ACTIVE
+[STATUS]      ONLINE
 ```
 
 ---
@@ -558,10 +699,11 @@ Every experiment teaches something.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=footer" width="100%" alt="Footer"/>
 
-### `BUILD • LEARN • SHIP • REPEAT`
+### `LEARN • BUILD • IMPROVE • REPEAT`
 
 <br/>
 
 **© Abdul Moiz · moiz-exe**
 
 </div>
+
