@@ -12,7 +12,7 @@
 
 # ABDUL MOIZ
 
-### `FUTURE FULL STACK DEVELOPER`
+### `FULL STACK DEVELOPER`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+by+building.;Python+%7C+Data+%7C+Machine+Learning+%7C+AI;Building+real+projects.;Explore.+Build.+Improve." alt="Typing animation"/>
 
