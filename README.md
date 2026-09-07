@@ -77,7 +77,7 @@ Interactive physics revision platform featuring formulas, numericals, cheatsheet
 
 Interactive physics practical learning platform covering experiments, apparatus, procedures, calculations, graphs and MCQs.
 
-**Web · Education · Interactive**
+**Web · Educational · Interactive**
 
 <a href="https://github.com/moiz-exe/PBA">Repository →</a>
 
