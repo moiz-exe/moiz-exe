@@ -36,7 +36,7 @@ I'm **Abdul Moiz**, a developer building my skills through programming, data, Ma
 
 Currently exploring:
 
-`Python` · `C/C++` · `Database` · `Machine Learning` · `AI` · `Web Development`
+`Python` · `C/C++` · `Data` · `Machine Learning` · `AI` · `Web Development`
 
 > **Learn → Build → Break → Improve**
 
