@@ -32,7 +32,7 @@
 
 ## 🌌 ABOUT
 
-I'm **Abdul Moiz**, a developer building my skills through programming, data, Machine Learning and interactive web projects.
+I'm **Abdul-Moiz**, a developer building my skills through programming, data, Machine Learning and interactive web projects.
 
 Currently exploring:
 
