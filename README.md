@@ -194,6 +194,6 @@ REAL PROJECTS
 
 <br/><br/>
 
-**© Abdul Moiz · moiz-exe**
+**© AMK · moiz-exe**
 
 </div>
