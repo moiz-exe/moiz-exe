@@ -186,7 +186,7 @@ REAL PROJECTS
 
 <div align="center">
 
-### `EXPLORE • BUILD • IMPROVE`
+### `EXPLORE • BUILD • IMPROVE `
 
 <a href="https://github.com/moiz-exe?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
