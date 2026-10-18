@@ -1,163 +1,91 @@
-<!-- =========================================================
-     MOIZ-EXE | PROFILE README
-     Keep the identity honest, the projects real, and the code clean.
-========================================================== -->
 
 <div align="center">
 
-<img src="./orbital-hero.gif" width="100%" alt="AMK developer universe banner" />
-
-<br />
-
 # AMK · MOIZ-EXE
 
-### Computer Science Student · Developer in Progress
+### Computer Science Student | Developer in Progress
 
-**Python · C/C++ · Data Structures · Machine Learning · AI · Cybersecurity**
+**Python · Data Structures · Machine Learning · AI · Cybersecurity**
 
-*Learn deeply. Build consistently. Improve continuously.*
+*Learn with purpose. Build with consistency. Improve through iteration.*
 
-<a href="https://github.com/moiz-exe">
-  <img src="https://img.shields.io/badge/GitHub-moiz--exe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/abdulmoiz495/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[GitHub](https://github.com/moiz-exe) ·
+[LinkedIn](https://www.linkedin.com/in/abdulmoiz495/)
 
 </div>
 
 ---
 
-## `01` — About
+## About
 
 I'm Abdul Moiz, a computer science student building practical skills through programming, experimentation, and personal projects.
 
-My current direction is **Python → Data Structures → Machine Learning → AI**, while exploring cybersecurity and software development.
+My current learning path focuses on Python and data structures, with a growing interest in machine learning, artificial intelligence, and cybersecurity.
 
-I believe progress comes from understanding the fundamentals, solving real problems, and improving projects through iteration.
+- **Learning:** Python, programming fundamentals, data structures
+- **Exploring:** Machine learning, AI, cybersecurity
+- **Building:** Educational resources and programming projects
+- **Improving:** Problem-solving, code quality, documentation, and Git workflows
 
-- **Currently learning:** Python, data structures, and machine learning fundamentals
-- **Exploring:** Artificial intelligence, cybersecurity, and software engineering
-- **Building:** Educational tools, programming projects, and practical experiments
-- **Approach:** Learn the concept → implement it → test it → improve it
+> Learn → Build → Test → Improve
 
-> This profile is a record of my learning journey, projects, and progress—not a claim of mastery.
-
-## `02` — Technology stack
+## Development Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technologies I use or am learning" />
+<img src="./development-universe.svg" width="100%" alt="AMK development universe" />
 
 </div>
 
-**Core focus:** Programming fundamentals, problem-solving, data structures, and project-based learning.
-
-*Icons represent technologies I use or am learning; proficiency varies.*
-
-## `03` — Selected projects
-
-Projects are the center of this profile. Explore the repositories to see the code, implementation, and progress.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## Featured Projects
 
 ### Physics HSSC
+Educational resources and interactive tools for HSSC Physics.
 
-An educational resource project for HSSC Physics.
-
-[**Open repository →**](https://github.com/moiz-exe/Physics-HSSC)
-
-[Open project website →](https://moiz-exe.github.io/Physics-HSSC/)
-
-    </td>
-    <td width="50%" valign="top">
+[Explore repository](https://github.com/moiz-exe/Physics-HSSC) · [Open website](https://moiz-exe.github.io/Physics-HSSC/)
 
 ### Physics PBA
+An interactive project for physics practical learning.
 
-A project focused on physics practical-based learning resources.
-
-[**Open repository →**](https://github.com/moiz-exe/PBA)
-
-[Open project website →](https://moiz-exe.github.io/PBA/)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[Explore repository](https://github.com/moiz-exe/PBA) · [Open website](https://moiz-exe.github.io/PBA/)
 
 ### Machine Learning
+A learning repository for machine learning experiments and concepts.
 
-A repository for learning and experimenting with machine learning.
-
-[**Explore the code →**](https://github.com/moiz-exe/Machine-Learning)
-
-    </td>
-    <td width="50%" valign="top">
+[Explore repository](https://github.com/moiz-exe/Machine-Learning)
 
 ### Python × MOIZ
+Python fundamentals and programming practice.
 
-Python programming practice and development.
+[Explore repository](https://github.com/moiz-exe/Python-x-MOIZ)
 
-[**Explore the code →**](https://github.com/moiz-exe/Python-x-MOIZ)
+### C Programs
+Programming practice and examples in C/C++.
 
-    </td>
-  </tr>
-</table>
+[Explore repository](https://github.com/moiz-exe/c-programs)
 
-**More code:** [C Programs](https://github.com/moiz-exe/c-programs)
-
-## `04` — Current learning roadmap
+## Current Roadmap
 
 <div align="center">
 
-`Python` → `Data Structures` → `Machine Learning` → `AI`
+**Python → Data Structures → Machine Learning → AI**
 
 </div>
 
-Alongside this path, I'm developing better software habits:
+Alongside this roadmap, I'm exploring cybersecurity and developing better habits for testing, version control, and project documentation.
 
-- Write readable, maintainable code.
-- Test edge cases instead of relying on one successful run.
-- Use Git and GitHub to track changes.
-- Document project goals, setup, and limitations.
-- Build projects that demonstrate actual understanding.
-
-## `05` — GitHub activity
+## Contribution Core
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moiz-exe&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-exe&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=moiz-exe&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="./contribution-core.svg" width="100%" alt="AMK contribution core" />
 
 </div>
 
-*Statistics are generated by third-party services and may be delayed or incomplete.*
+## Connect
 
-## `06` — Contribution graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/moiz-exe/moiz-exe/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-</picture>
-
-</div>
-
-## `07` — Connect
-
-Interested in programming, AI, cybersecurity, and learning through real projects.
-
-- **GitHub:** [@moiz-exe](https://github.com/moiz-exe)
-- **LinkedIn:** [Abdul Moiz](https://www.linkedin.com/in/abdulmoiz495/)
+- GitHub: [@moiz-exe](https://github.com/moiz-exe)
+- LinkedIn: [Abdul Moiz](https://www.linkedin.com/in/abdulmoiz495/)
 
 <div align="center">
 
@@ -165,8 +93,6 @@ Interested in programming, AI, cybersecurity, and learning through real projects
 
 **EXPLORE · BUILD · IMPROVE**
 
-*One project at a time.*
-
-**AMK** · `moiz-exe`
+AMK · `moiz-exe`
 
 </div>
