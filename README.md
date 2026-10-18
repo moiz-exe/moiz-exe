@@ -133,7 +133,7 @@ My priority is not collecting technologies. It's building a strong foundation an
 </p>
 
 <p align="center">
-  <sub>Statistics depend on external services and their availability.</sub>
+
 </p>
 
 ## `06` / Contribution Core
@@ -147,7 +147,7 @@ My priority is not collecting technologies. It's building a strong foundation an
 </p>
 
 <p align="center">
-  <sub>The contribution animation requires a working GitHub Actions workflow and generated SVG files in the output branch.</sub>
+ 
 </p>
 
 ## `07` / Beyond the Code
