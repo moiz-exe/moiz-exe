@@ -1,0 +1,50 @@
+name: Profile README Check
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "orbital-hero.gif"
+      - ".github/workflows/profile-check.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "orbital-hero.gif"
+      - ".github/workflows/profile-check.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: Validate profile files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check README and local assets
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s README.md || {
+            echo "ERROR: README.md is missing or empty."
+            exit 1
+          }
+
+          grep -q "moiz-exe" README.md || {
+            echo "ERROR: Expected profile identity was not found."
+            exit 1
+          }
+
+          test -s orbital-hero.gif || {
+            echo "ERROR: orbital-hero.gif is missing or empty."
+            exit 1
+          }
+
+          echo "Profile README and required banner look good."
