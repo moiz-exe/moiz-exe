@@ -7,7 +7,7 @@ Cinematic developer profile
   <img src="./orbital-hero.svg" alt="MOIZ-EXE — Developer Universe" width="100%">
 </p>
 
-<h1 align="center">MOIZ-EXE</h1>
+<h1 align="center">MOIZ.EXE</h1>
 
 <p align="center">
   <strong>CODE THE UNKNOWN. BUILD WHAT'S NEXT.</strong>
