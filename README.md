@@ -1,5 +1,5 @@
 <!--
-MOIZ-EXE × AMK
+MOIZ-EXE
 Cinematic developer profile
 -->
 
